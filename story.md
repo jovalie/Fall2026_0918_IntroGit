@@ -5,7 +5,7 @@ Introduce the main character and describe what the reader needs to know about th
 
 ## Part 1 — The Beginning
 
-Introduce the main character, establish where and when the story takes place, and show the character’s situation before the main problem begins.
+Bisc, the biscuit, is sitting in a box of biscuits this afternoon. He is wondering if the people are going to eat him.
 
 ## Part 2 — The Challenge
 
