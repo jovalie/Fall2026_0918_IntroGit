@@ -1,0 +1,79 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  width: 100%;
+  padding: 20px;
+  /* background-color: #730c0c; /* Optional: Add background color */
+}
+
+
+.header-container {
+  display: flex;                /* Align items horizontally */
+  justify-content: flex-start;  /* Align left for image and title */
+  align-items: center;          /* Vertically center the content */
+  gap: 20px;                    /* Space between image and text */
+  flex-wrap: wrap;              /* Allow wrapping when screen size is small */
+  padding-left: 20px; 
+}
+
+.header-image {
+    width: 100%;                   /* Use a percentage for flexible width */
+    max-width: 500px;             /* Maximum image size */
+    height: auto;
+    object-fit: cover;            /* Ensure it fills properly */
+}
+
+.container {
+  flex: 1;                     /* Let the text container take remaining space */
+  display: flex;               /* Make the container a flexbox */
+  flex-direction: column;      /* Stack the title and description vertically */
+  align-items: flex-start;     /* Align text to the left */
+  justify-content: center;     /* Vertically center the text */
+
+}
+
+/* #a-title {
+  text-decoration: none;       /* Remove underline from the link 
+}
+*/
+h1 {
+  margin: 0;                   /* Remove default margin */
+  font-size: 2rem;             /* Title size */
+}
+  
+  h1::before {
+  content: none !important;
+}
+  
+/*
+h2 {
+  margin: 0;                   /* Remove default margin 
+  font-size: 1.2rem;           /* Description size 
+  color: #555;                 /* Optional: Set description color 
+} 
+  */
+
+.btn {
+  background-color: #4CAF50;    /* Green button */
+  color: white;
+  padding: 10px 15px;
+  margin-right: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+.btn-github {
+  background-color: #333;
+}
+
+.btn-github:hover {
+  background-color: #444;
+}
