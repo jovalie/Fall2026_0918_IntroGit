@@ -1,7 +1,7 @@
 # Story Template
 ## Part 0 - Character introduction
 
-Introduce the main character and describe what the reader needs to know about them.
+Bisc is a sentient biscuit sitting on the QCL table looking at the people around him
 
 ## Part 1 — The Beginning
 
