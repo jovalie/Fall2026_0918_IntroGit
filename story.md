@@ -1,5 +1,5 @@
 # Story Template
-## Character introduction
+## Part 0 - Character introduction
 
 Introduce the main character and describe what the reader needs to know about them.
 
@@ -9,7 +9,7 @@ Introduce the main character, establish where and when the story takes place, an
 
 ## Part 2 — The Goal
 
-## Show what the main character wants to accomplish and explain why achieving this goal matters to them.
+Show what the main character wants to accomplish and explain why achieving this goal matters to them.
 
 ## Part 3 — The First Challenge
 
