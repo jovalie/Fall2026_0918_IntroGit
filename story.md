@@ -13,4 +13,6 @@ Bisc, sitting on the table, begins to ponder their sentience. "Why am I the only
 
 ## Part 3 — The Ending
 
-In the end, Bisc is happy and has self love. However, just how Bisc was watching the people, the people were watching him, and then they grabbed him and ate him. :( The end.
+In the end, Bisc is happy and has self love. However, just how Bisc was watching the people, the people were watching him, and then they grabbed him and ate him. :( The end...?
+
+Bisc came back to life as a zombie and explained to the people why it hurt him when they ate him.
