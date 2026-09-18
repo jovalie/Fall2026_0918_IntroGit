@@ -13,4 +13,4 @@ Bisc, sitting on the table, begins to ponder their sentience. "Why am I the only
 
 ## Part 3 — The Ending
 
-Show how the main problem is resolved and what happens to the character at the end of the story.
+In the end, Bisc is happy and has self love. However, just how Bisc was watching the people, the people were watching him, and then they grabbed him and ate him. :( The end.
